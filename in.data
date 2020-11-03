@@ -1,0 +1,14 @@
+<=30 high no averange no
+<=30 high no super no
+31...40 high no averange yes
+>40 averange no averange yes
+>40 low yes averange yes
+>40 low yes super no
+31...40 low yes super yes
+<=30 averange no averange no
+<=30 low yes averange yes
+>40 averange yes averange yes
+<=30 averange yes super yes
+31...40 averange no super yes
+31...40 high yes averange yes
+>40 averange no super no
