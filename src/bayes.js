@@ -1,7 +1,6 @@
 const fs = require('fs');
 
 function predict(trainPath, testPath) {
-    const res = [];
     const data = fs.readFileSync(trainPath, 'utf8');
     const test = fs.readFileSync(testPath, 'utf8');
     const test_rows = test.trim().split('\n').map((row) => row.split(' '));
